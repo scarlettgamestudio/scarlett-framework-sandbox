@@ -1,0 +1,27 @@
+{
+  "name": "scarlett-framework-sandbox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scarlettgamestudio/scarlett-framework-sandbox.git"
+  },
+  "keywords": [],
+  "author": "Cothesia",
+  "license": "APACHE 2.0",
+  "bugs": {
+    "url": "https://github.com/scarlettgamestudio/scarlett-framework-sandbox/issues"
+  },
+  "homepage": "https://github.com/scarlettgamestudio/scarlett-framework-sandbox#readme",
+  "devDependencies": {
+    "ts-loader": "^5.3.3",
+    "typescript": "^3.3.3333",
+    "webpack": "^4.29.5",
+    "webpack-cli": "^3.2.3"
+  }
+}
